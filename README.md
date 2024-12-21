@@ -11,7 +11,7 @@ Optimized for gaming.
 
 Run the following script on your server (debian/ubuntu supported):
 ```
-bash <(curl -Ls --ipv4 https://github.com/Musixal/GamingVPN/raw/main/gamingvpn.sh)
+bash <(curl -Ls --ipv4 https://github.com/ArminNy/GamingVPN/raw/main/gamingvpn.sh)
 ```
 # Usage
 This project can be used both `directly` and in `reverse`. To use reverse on the `Iran server`, you must select `Configure for server` and click `Configure for client` on the `external server` and enter the `IP address of Iran`. 
