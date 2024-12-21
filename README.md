@@ -22,21 +22,7 @@ Its format is `FEC x:y`, which means send y redundant packets for every x packet
 
 For example, `FEC 2:1` means that it sends one extra packet for every two packets, which increases bandwidth consumption by `1.5 times`.In the same way, FEC 2:2 doubles the bandwidth consumption. It is also possible to turn off FEC. In networks where there is no packet loss, it is not a problem to turn it off, but if there is high packet loss, it is better to set a value such as FEC 2:1 or FEC 2:4.
 
-# Menu
-
-![Menu](https://github.com/Musixal/GamingVPN/blob/main/menu/menu.png?raw=true)
-
-# My Telegram channel
-Check the channel below for more information:
-https://t.me/Gozar_Xray
-
- # Support the project
-Donate TRX (TRC-20) to support our project:
-``` wallet
-TMVBGzX4qpt12R1qWsJMpT1ttoKH1kus1H
-```
-Thanks for your support! 
 
 
-# Source code
-https://github.com/wangyu-/tinyfecVPN
+
+
